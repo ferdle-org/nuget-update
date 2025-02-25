@@ -10,3 +10,4 @@ updates:
     registries: "*"
     schedule:
       interval: "daily"
+    open-pull-requests-limit: 20
