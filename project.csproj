@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net48</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Pester" Version="5.7.1" />
+    <PackageReference Include="PowerShellLogging" Version="3.3.0.11" />
+    <PackageReference Include="PowershellStdLib" Version="0.13.1.54" />
+    <PackageReference Include="PowerShellExpanse" Version="6.0.0.45" />
+    <PackageReference Include="PowerShellParallelHelpers" Version="0.2.2.8" />
+    <PackageReference Include="NetApp.ONTAP" Version="9.13.1.2306" />
+  </ItemGroup>
+
+</Project>
